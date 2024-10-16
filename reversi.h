@@ -4,6 +4,7 @@
 #include <iostream>
 #include <utility>
 #include <vector>
+#include <cassert>
 
 class ReversiSimulator {
 public:
